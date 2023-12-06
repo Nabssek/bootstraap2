@@ -7,4 +7,20 @@ a {
   background-color: red;
 }
 
+body {
+  background-color: #b1b1b1;
+}
+
+.nabil {
+  height: 500px;
+}
+
+.div1 {
+  margin-top: 100px;
+}
+
+i {
+  font-size: 25px;
+}
+
 /*# sourceMappingURL=style.css.map */
